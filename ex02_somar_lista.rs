@@ -1,4 +1,4 @@
-## Exercício N — Nome do Algoritmo 
+## Exercício 2 — Somar Lista 
 **Complexidade:** O(n) 
 **Lógica do algoritmo:** 
 O algoritmo soma a quantidade de itens em uma lista.
