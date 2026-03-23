@@ -1,5 +1,5 @@
 ## Exercício 3 — Busca Binária
-**Complexidade:** O(n) 
+**Complexidade:** O(log n) 
 **Lógica do algoritmo:** 
 O algoritmo realiza uma busca binária por algo definido dentro do seu escopo. 
 **Justificativa da complexidade:** 
